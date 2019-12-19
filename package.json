@@ -1,5 +1,5 @@
 {
-  "name": "article-bot",
+  "name": "reddit-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
     "axios": "^0.16.2",
     "telegraf": "^3.10.1"
